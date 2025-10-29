@@ -1,5 +1,6 @@
-*.DS_Store
-*.git
-*.csv
-*.ipynb_checkpoints
-*.zip
+# Ignore everything
+*
+
+# But not these files
+!.gitignore
+!*.ipynb
