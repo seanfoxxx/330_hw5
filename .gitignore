@@ -1,8 +1,10 @@
 # Ignore everything
 *
 
-# But not these files
+# Don't ignore
 !.gitignore
 !*.ipynb
+!*.pdf
+!*.html
 
-*.png
+
